@@ -6,8 +6,6 @@
 
 A beautiful, interactive weather dashboard that provides real-time weather forecasts with a modern glassmorphism UI. Search for any location worldwide and get detailed weather information including temperature, humidity, wind speed, and more.
 
-![Weather Dashboard Preview](https://via.placeholder.com/1200x600/1e293b/e2e8f0?text=Weather+Dashboard+Preview)
-
 ## ✨ Features
 
 - 🔍 **Smart Location Search** - Find weather for any city worldwide
@@ -87,10 +85,10 @@ VITE_MAPBOX_ACCESS_TOKEN=your_mapbox_token_here
 
 | Feature | Preview |
 |---------|---------|
-| Main Dashboard | ![Dashboard](https://via.placeholder.com/400x250/1e293b/e2e8f0?text=Main+Dashboard) |
-| Daily Forecast | ![Daily](https://via.placeholder.com/400x250/1e293b/e2e8f0?text=Daily+Forecast) |
-| Hourly Forecast | ![Hourly](https://via.placeholder.com/400x250/1e293b/e2e8f0?text=Hourly+Forecast) |
-| Mobile View | ![Mobile](https://via.placeholder.com/200x400/1e293b/e2e8f0?text=Mobile+View) |
+| Main Dashboard | ![Dashboard](https://github.com/user-attachments/assets/3f5a1ebb-2157-4911-bc4d-274083c3d326) |
+| Daily Forecast | ![Daily](https://github.com/user-attachments/assets/f7ea7449-0575-436b-ac4c-4047905f7632) |
+| Hourly Forecast | ![Hourly](https://github.com/user-attachments/assets/33916cea-ba51-461b-8fbf-281b3d6b0aa8) |
+| Mobile View | ![Mobile](https://github.com/user-attachments/assets/3f5a1ebb-2157-4911-bc4d-274083c3d326) |
 
 ## 🤝 Contributing
 
